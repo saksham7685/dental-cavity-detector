@@ -1,6 +1,4 @@
-### Here's a README.md file for your Dental Cavity Detection project, based on the provided Jupyter Notebook content.
-
-## Dental Cavity Detection using Mask R-CNN
+# Dental Cavity Detection using Mask R-CNN
 This project implements a Mask R-CNN model to detect and segment dental cavities in X-ray images. The model is fine-tuned on a custom dataset of dental X-rays and their corresponding cavity masks to perform instance segmentation.
 
 ## 🚀 Features
